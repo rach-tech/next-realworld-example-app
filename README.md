@@ -1,5 +1,20 @@
 # ![Next.js + SWR Example App](project-logo.png)
 
+# Sonarcloud
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=rach-tech_next-realworld-example-app&metric=bugs)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=rach-tech_next-realworld-example-app)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
+
+
+
 > ### Next.js + SWR codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ### [Demo](https://next-realworld.now.sh/)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)

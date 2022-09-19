@@ -14,6 +14,10 @@
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=rach-tech_next-realworld-example-app)
 
 
+# deepsource
+[![DeepSource](https://deepsource.io/gh/rach-tech/next-realworld-example-app.svg/?label=active+issues&show_trend=true&token=r6ZUfN_A2Un-0HoHBV2K1ftb)](https://deepsource.io/gh/rach-tech/next-realworld-example-app/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/rach-tech/next-realworld-example-app.svg/?label=resolved+issues&show_trend=true&token=r6ZUfN_A2Un-0HoHBV2K1ftb)](https://deepsource.io/gh/rach-tech/next-realworld-example-app/?ref=repository-badge)
+
 
 > ### Next.js + SWR codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 

@@ -1,6 +1,7 @@
 name: deploy-app
 
 on:
+  workflow_dispatch:
   push:
     branches: master
 
@@ -14,7 +15,12 @@ jobs:
           node-version: '14'
           cache: 'npm'
       - run: npm ci
-      - run: npm run build
+
+      - name: Coverage reporting
+        run: npm run coverage
+
+      - name: Build
+        run: npm run build
       ## dev branch
       ## test-2
 

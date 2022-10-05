@@ -3,7 +3,7 @@ name: Deploy FrontEnd - Google Cloud Run
 on:
   push:
     branches:
-      - test-sonar
+      - test-sonar-2
 
 env:
   CLOUD_RUN_PROJECT_ID: lattice

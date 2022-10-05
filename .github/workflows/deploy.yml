@@ -22,7 +22,7 @@ jobs:
 
     - name: Build and tag image
       run: |-
-        docker build -f . --build-arg GOOGLE_API_KEY='${{ secrets.GOOGLE_API_KEY }}' --tag "gcr.io/$CLOUD_RUN_PROJECT_ID/$REPO_NAME:$GITHUB_SHA"
+        docker build -f . --build-arg GOOGLE_API_KEY="${{ secrets.GOOGLE_API_KEY }}" --tag "gcr.io/$CLOUD_RUN_PROJECT_ID/$REPO_NAME:$GITHUB_SHA"
         docker tag "gcr.io/$CLOUD_RUN_PROJECT_ID/$REPO_NAME:$GITHUB_SHA" "gcr.io/$CLOUD_RUN_PROJECT_ID/$REPO_NAME:latest"
 
     - name: Push image to GCR
